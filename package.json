@@ -1,0 +1,12 @@
+{
+  "name": "node-wbw8kh",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "eslint": "^7.32.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint-plugin-react": "^7.24.0"
+  }
+}
